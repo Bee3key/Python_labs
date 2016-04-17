@@ -1,4 +1,4 @@
-__author__ = 'fkuts'
+__author__ = 'Bee3Key'
 
 from ctypes import *
 from debugg_define import *

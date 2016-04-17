@@ -1,4 +1,4 @@
-__author__ = 'Bogard'
+__author__ = 'Bee3Key'
 
 import numpy as np
 import re

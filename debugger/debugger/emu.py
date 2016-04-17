@@ -1,4 +1,4 @@
-__author__ = 'Bogard'
+__author__ = 'Bee3Key'
 
 
 example = [[0, 1, 0, 1, 0, 1],

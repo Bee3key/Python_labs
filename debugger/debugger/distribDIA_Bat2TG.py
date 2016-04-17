@@ -1,4 +1,4 @@
-__author__ = 'Bogard'
+__author__ = 'Bee3Key'
 
 #Get Dia_BAT form repository
 #Distribute BAT binary to TGs depends of their uname -i
