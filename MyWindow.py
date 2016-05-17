@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from PyQt4 import QtCore, QtGui
+from PyQt4 import QtGui, QtCore
 import sys
 
 class MyWindow(QtGui.QWidget):
