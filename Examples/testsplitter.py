@@ -1,6 +1,6 @@
 #testsplitter.py
 
-import splitter
+from Examples import splitter
 # import doctest
 
 # nfail, ntest = doctest.testmod(splitter, verbose=True)

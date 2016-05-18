@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
-from PyQt4 import QtCore, QtGui
 import sys
-import MyWindow
+
+from PyQt4 import QtCore, QtGui
+
+from Examples import MyWindow
+
 
 class MyDialog(QtGui.QDialog):
 	def __init__(self, parent=None):
